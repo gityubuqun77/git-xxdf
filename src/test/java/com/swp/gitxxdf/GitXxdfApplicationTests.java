@@ -9,6 +9,7 @@ class GitXxdfApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("git hello 111");
+        System.out.println("git hello 222");
     }
 
 }
